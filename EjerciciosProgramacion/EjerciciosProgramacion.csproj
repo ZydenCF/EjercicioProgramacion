@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CaminoDerecha.cs" />
+    <Compile Include="CaminoIzquierda.cs" />
+    <Compile Include="Escena.cs" />
+    <Compile Include="FinalBueno.cs" />
+    <Compile Include="FinalMalo.cs" />
+    <Compile Include="Inicio.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
