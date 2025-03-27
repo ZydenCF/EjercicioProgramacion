@@ -10,7 +10,7 @@ namespace EjerciciosProgramacion
     {
         public override void Mostrar()
         {
-            Console.WriteLine("Tomas el camino izquierdo y encuentras un río. Puedes cruzarlo o seguir la orilla.");
+            Console.WriteLine("Tomas el camino izquierdo y encuentras un río. Puedes cruzar o seguir la orilla.");
         }
 
         public override Escena TomarDecision(string eleccion)
